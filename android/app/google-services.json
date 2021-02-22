@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "352110602845",
+    "firebase_url": "https://namelistapp-default-rtdb.firebaseio.com",
+    "project_id": "namelistapp",
+    "storage_bucket": "namelistapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352110602845:android:9f75169b1ff564cefc3bb4",
+        "android_client_info": {
+          "package_name": "com.namelistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352110602845-ho9vltr4g81nqqgqsak532fght19ef1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG6596ZTyLKt-M1dcECDDMnNRhtHf9iak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352110602845-ho9vltr4g81nqqgqsak532fght19ef1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
