@@ -12,6 +12,8 @@ target 'namelistapp' do
 
   pod 'react-native-image-picker', :path => '../node_modules/react-native-image-picker'
 
+  pod 'RNCPicker', :path => '../node_modules/@react-native-picker/picker'
+
   target 'namelistappTests' do
     inherit! :complete
     # Pods for testing
